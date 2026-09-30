@@ -1,0 +1,45 @@
+
+---
+
+## 4. `CITATION.cff`
+
+```yaml
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+authors:
+  - family-names: Saifutdinov
+    given-names: Timur
+    email: timur.saifutdinov@xjtlu.edu.cn
+  - family-names: Alahyari
+    given-names: Arman
+  - family-names: Patsios
+    given-names: Charalampos
+  - family-names: Titarenko
+    given-names: Roman
+  - family-names: Deakin
+    given-names: Matthew
+  - family-names: Liu
+    given-names: Qixin
+title: "Wasserstein Ball Data-Driven Electricity Market Enabling Renewables, Storage, and Active Network Technologies"
+version: 1.0.0
+date-released: 2026-01-01
+url: "https://github.com/tsaifutdinov13/Data-driven-LEM-enabling-RES-EES-and-ANTs"
+license: MIT
+preferred-citation:
+  type: article
+  title: "A Wasserstein Ball Formulation for Scalable Data-Driven Electricity Market Enabling Renewables, Storage, and Active Network Technologies"
+  journal: "Journal of Modern Power Systems and Clean Energy (Under review)"
+  year: 2026
+  authors:
+    - family-names: Saifutdinov
+      given-names: Timur
+    - family-names: Alahyari
+      given-names: Arman
+    - family-names: Patsios
+      given-names: Charalampos
+    - family-names: Titarenko
+      given-names: Roman
+    - family-names: Deakin
+      given-names: Matthew
+    - family-names: Liu
+      given-names: Qixin
